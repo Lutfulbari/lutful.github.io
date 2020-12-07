@@ -1,0 +1,98 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container {
+    background-color: rgb(93, 4, 4);
+}
+
+.banner-container h2,h3 {
+    color: white;
+    font-weight: bold;
+
+}
+
+.banner-container h3 {
+    font-size: 20px;
+}
+
+.navbar-container{
+    font-size: 20px;
+    font-weight: bolder;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+   background-color: cornflowerblue;
+
+}
+
+.about-container {
+    background-color: rgb(34, 2, 2);
+}
+
+.education-container {
+    background-color: rgb(4, 1, 42);
+}
+
+.bg-redtype {
+    background-color: rgb(255, 5, 5);
+}
+
+.bg-redtype:hover {
+    color: rgb(31, 255, 11) !important;
+}
+
+.redtype-color {
+    background-color: rgb(58, 1, 6);
+
+}
+
+.circleE {
+    background-color: rgb(65, 8, 119);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}
+
+.project-container {
+    background-color: rgb(10, 1, 1);
+
+}
+
+
+.redtype-color {
+    background-color: #0e033f;
+}
+
+.bg-redtype {
+    background-color: rgb(167, 38, 15);
+}
+
+.form-container {
+    background-color: rgb(11, 107, 107);
+}
+
+.inner-form {
+    background-color: rgb(2, 75, 78);
+}
+
+.footer {
+    background-color: rgb(2, 86, 97);
+}
+
+.circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: rgba(27, 51, 2, 0.568);
+    font-size: 35px;
+    text-align: center;
+    color: rgb(61, 3, 15);
+}
+
+.circle:hover {
+    background-color: rgba(133, 255, 3, 0.568);
+
+}
